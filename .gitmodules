@@ -1,0 +1,3 @@
+[submodule "3rdparty/azure-iot-sdk-c"]
+	path = 3rdparty/azure-iot-sdk-c
+	url = https://github.com/Azure/azure-iot-sdk-c.git
