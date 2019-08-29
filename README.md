@@ -13,6 +13,6 @@ Currently included vendors are:
 # More details
 The source code has been used as a basis for a blog post available
 here:
-<insert link>
+https://blog.qt.io/blog/2019/08/29/cloud-providers-telemetry-via-qt-mqtt/
 
 
